@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328286795466",
+    "project_id": "armotale-a6c53",
+    "storage_bucket": "armotale-a6c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328286795466:android:4a5188d10414b25c812633",
+        "android_client_info": {
+          "package_name": "com.example.delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328286795466-n898k5qi5e6gvfq18v1tium8jpl3quhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AT_z12iZW7qtoJtCASi9LRW4omriGNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328286795466-n898k5qi5e6gvfq18v1tium8jpl3quhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
